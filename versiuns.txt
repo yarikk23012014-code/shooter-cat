@@ -1,1 +1,1 @@
-versiuns 1.0.4
+versiuns 1.0.5
